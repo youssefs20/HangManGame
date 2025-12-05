@@ -6,29 +6,29 @@ This is a classic word guessing game, The game challenges the player to guess a 
 
 ## Features
 
-    Classic Gameplay: Standard Hangman rules with a limited number of incorrect guesses (6 attempts).
+Classic Gameplay: Standard Hangman rules with a limited number of incorrect guesses (6 attempts).
 
-    Contextual Hints: Each word comes with a short definition or descriptive hint to aid the player.
+Contextual Hints: Each word comes with a short definition or descriptive hint to aid the player.
 
-    Visual Feedback: The hangman gallows is drawn incrementally with each incorrect guess.
+Visual Feedback: The hangman gallows is drawn incrementally with each incorrect guess.
 
-    Interactive Interface: A simple and intuitive keyboard interface allows players to select letters.
+Interactive Interface: A simple and intuitive keyboard interface allows players to select letters.
 
 ---
 
 ## How to Play
 
-    Read the Hint: A hint will be displayed below the dashed word
+Read the Hint: A hint will be displayed below the dashed word
 
-    Guess a Letter: Click on any letter in the provided alphabet keyboard.
+Guess a Letter: Click on any letter in the provided alphabet keyboard.
 
-    Correct Guess: If the letter is in the word, it will appear in all its correct positions.
+Correct Guess: If the letter is in the word, it will appear in all its correct positions.
 
-    Incorrect Guess: If the letter is not in the word, one part of the hangman figure will be drawn, and your "Incorrect Guesses" counter will increase. You have 6 total incorrect guesses.
+Incorrect Guess: If the letter is not in the word, one part of the hangman figure will be drawn, and your "Incorrect Guesses" counter will increase. You have 6 total incorrect guesses.
 
-    Win Condition: Guess all the letters in the word before the hangman figure is completed (6 incorrect guesses).
+Win Condition: Guess all the letters in the word before the hangman figure is completed (6 incorrect guesses).
 
-    Loss Condition: The hangman figure is fully drawn before you complete the word.
+Loss Condition: The hangman figure is fully drawn before you complete the word.
 
 ---
 
@@ -36,11 +36,11 @@ This is a classic word guessing game, The game challenges the player to guess a 
 
 The game is built using standard web technologies:
 
-    HTML: Structure and content.
+HTML: Structure and content.
 
-    CSS: Styling, layout (as seen in the clean, cyan-themed interface).
+CSS: Styling, layout (as seen in the clean, cyan-themed interface).
 
-    JavaScript: Game logic, DOM manipulation, word selection, and handling user input.
+JavaScript: Game logic, DOM manipulation, word selection, and handling user input.
 
 ---
 
@@ -68,12 +68,12 @@ Open in Browser: Open the main game file (HangMan.html) in your web browser.
 
 Contributions are welcome! If you have suggestions for new features, word lists, or bug fixes, please:
 
-    Fork the repository.
+Fork the repository.
 
-    Create a new feature branch (git checkout -b feature/AmazingFeature).
+Create a new feature branch (git checkout -b feature/AmazingFeature).
 
-    Commit your changes (git commit -m 'Add some AmazingFeature').
+Commit your changes (git commit -m 'Add some AmazingFeature').
 
-    Push to the branch (git push origin feature/AmazingFeature).
+Push to the branch (git push origin feature/AmazingFeature).
 
-    Open a Pull Request.
+Open a Pull Request.
