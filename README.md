@@ -70,10 +70,18 @@ Contributions are welcome! If you have suggestions for new features, word lists,
 
 Fork the repository.
 
-Create a new feature branch (git checkout -b feature/AmazingFeature).
+Create a new feature branch 
+```bash
+git checkout -b feature/AmazingFeature
+```
 
-Commit your changes (git commit -m 'Add some AmazingFeature').
-
-Push to the branch (git push origin feature/AmazingFeature).
+Commit your changes 
+```bash
+git commit -m 'Add some AmazingFeature' 
+```
+Push to the branch 
+```bash
+git push origin feature/AmazingFeature
+```
 
 Open a Pull Request.
